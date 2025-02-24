@@ -1,6 +1,9 @@
 company_name,ticker
 3M,MMM
+AMD,AMD
 AT&T,T
+IBM,IBM
+가트너,IT
 리얼티인컴,O
 메타,META
 뱅크오브아메리카,BAC
@@ -18,8 +21,14 @@ AT&T,T
 에어비앤비,ABNB
 엔비디아,NVDA
 오토데스크,ADSK
+월마트,WMT
 웹툰엔터테인먼트,WBTN
+이베이,EBAY
+인텔,INTC
+존슨앤드존슨,JNJ
+코스트코홀세일,COST
 코카콜라,KO
 쿠팡,CPNG
 테슬라,TSLA
+팔란티어테크놀로지스,PLTR
 펩시코,PEP
