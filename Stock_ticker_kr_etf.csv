@@ -1,4 +1,4 @@
-company_name,ticker
+company_name,ticker,is_etf
 1Q 머니마켓액티브,479080.KS,True
 1Q CD금리액티브(합성),491610.KS,True
 1Q 단기금융채액티브,463290.KS,True
